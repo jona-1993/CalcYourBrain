@@ -1,0 +1,11 @@
+C:\Users\capij\Desktop\Git Partage\CalcYourBrainMainMenuGUI\CalcYourBrainMainMenuGUI\bin\Release\CalcYourBrain.exe.config
+C:\Users\capij\Desktop\Git Partage\CalcYourBrainMainMenuGUI\CalcYourBrainMainMenuGUI\bin\Release\CalcYourBrain.exe
+C:\Users\capij\Desktop\Git Partage\CalcYourBrainMainMenuGUI\CalcYourBrainMainMenuGUI\bin\Release\CalcYourBrain.pdb
+C:\Users\capij\Desktop\Git Partage\CalcYourBrainMainMenuGUI\CalcYourBrainMainMenuGUI\obj\Release\CalcYourBrainMainMenuGUI.AboutForm.resources
+C:\Users\capij\Desktop\Git Partage\CalcYourBrainMainMenuGUI\CalcYourBrainMainMenuGUI\obj\Release\CalcYourBrainMainMenuGUI.CalcYourBrainGameGUI.resources
+C:\Users\capij\Desktop\Git Partage\CalcYourBrainMainMenuGUI\CalcYourBrainMainMenuGUI\obj\Release\CalcYourBrainMainMenuGUI.CalcYourBrainMainMenuGUI.resources
+C:\Users\capij\Desktop\Git Partage\CalcYourBrainMainMenuGUI\CalcYourBrainMainMenuGUI\obj\Release\CalcYourBrainMainMenuGUI.Properties.Resources.resources
+C:\Users\capij\Desktop\Git Partage\CalcYourBrainMainMenuGUI\CalcYourBrainMainMenuGUI\obj\Release\CalcYourBrainMainMenuGUI.csproj.GenerateResource.Cache
+C:\Users\capij\Desktop\Git Partage\CalcYourBrainMainMenuGUI\CalcYourBrainMainMenuGUI\obj\Release\CalcYourBrainMainMenuGUI.csproj.CoreCompileInputs.cache
+C:\Users\capij\Desktop\Git Partage\CalcYourBrainMainMenuGUI\CalcYourBrainMainMenuGUI\obj\Release\CalcYourBrain.exe
+C:\Users\capij\Desktop\Git Partage\CalcYourBrainMainMenuGUI\CalcYourBrainMainMenuGUI\obj\Release\CalcYourBrain.pdb
